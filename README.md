@@ -7,7 +7,6 @@ TradeSweep is a research project aimed at preprocessing data in an efficient and
 - [Setup Code Library](#setup-code-library)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 TradeSweep is a powerful LLM-driven tool that leverages RAG and LLM's code writing abilities to help users optimize their data preprocessing pipelines.
@@ -28,3 +27,6 @@ To set a code library on Qdrant:
 1. Run the main script: `python TradeSweep.py`
 2. Follow the prompts to input your data.
 3. TradeSweep will generate detailed reports and visualizations to help you fulfill your data preprocessing requests.
+
+## Contributing
+Contributions are welcome! If you have any ideas or suggestions, please open an issue or submit a pull request.
